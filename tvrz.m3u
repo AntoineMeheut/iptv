@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1,-------------- France
-//
 #EXTINF:-1,TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1,France 2
@@ -37,13 +35,9 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1,Tech&Co
 https://d2py8vfwz3u72y.cloudfront.net/index.m3u8
-#EXTINF:-1,-------------- Canada
-//
 #EXTINF:-1,Noovo Cinéma  (CA)
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
 #EXTINF:-1,Ici RDI  (CA)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1,-------------- Polynésie française
-//
 #EXTINF:-1,TNTV Tahiti TV
 https://tntv-samsung-fr.amagi.tv/hls/amagi_hls_data_samsungfr-tntv-samsungfr/CDN/playlist.m3u8
