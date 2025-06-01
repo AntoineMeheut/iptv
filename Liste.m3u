@@ -331,39 +331,27 @@ https://amg01796-amg01796c16-rakuten-fr-7493.playouts.now.amagi.tv/1080p/index.m
 https://srv.webtvmanager.fr:3225/stream/play.m3u8
 #EXTINF:-1, C156-Equidia
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
-#EXTINF:-1, C157-Equidia Racing Galop
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racinggalop.m3u8
-#EXTINF:-1, C158-Equidia Racing Mag
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
-#EXTINF:-1, C159-Equidia Racing Trot
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingtrot.m3u8
-#EXTINF:-1, C160-Journal du Golf
-https://tvradiozap.eu/tools/dm-m3u8.php/x6qdjk7.m3u8
-#EXTINF:-1, C161-L'Équipe Live 1
-https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
-#EXTINF:-1, C162-L'Équipe Live 2
-https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
-#EXTINF:-1, C163-Motor Racing
+#EXTINF:-1, C157-Motor Racing
 https://d1j1h1zdadb91f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-50l4tj8p1zx6l/moto.m3u8
-#EXTINF:-1, C164-RMC Info Talk Sport
+#EXTINF:-1, C158-RMC Info Talk Sport
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
-#EXTINF:-1, C165-Sport en France
+#EXTINF:-1, C159-Sport en France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1, C166-Tennis Channel
+#EXTINF:-1, C160-Tennis Channel
 https://amg01444-amg01444c7-samsung-fr-6370.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelfrance-samsungfr/playlist.m3u8
 #EXTINF:-1,-------------- Voyage
 //
-#EXTINF:-1, C167-Ailleurs Destination Luxe
+#EXTINF:-1, C161-Ailleurs Destination Luxe
 https://dn8mc7o4f0o74.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2c0yg2t7bpaj/aildl.m3u8
-#EXTINF:-1, C168-Echappées belles
+#EXTINF:-1, C162-Echappées belles
 https://amg02232-botravail-amg02232c1-samsung-fr-308.playouts.now.amagi.tv/playlist/amg02232-botravail-echappeesbelles-samsungfr/playlist.m3u8
-#EXTINF:-1, C169-RMC J'irai dormir chez vous
+#EXTINF:-1, C163-RMC J'irai dormir chez vous
 https://dwsx9zc2hxqhl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k0j7zahecxb3y/index.m3u8
-#EXTINF:-1, C170-Travelxp
+#EXTINF:-1, C164-Travelxp
 https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
-#EXTINF:-1, C171-TV5Monde Voyage
+#EXTINF:-1, C165-TV5Monde Voyage
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
-#EXTINF:-1, C172-Voyages et Saveurs
+#EXTINF:-1, C166-Voyages et Saveurs
 https://amg01821-amg01821c24-samsung-fr-5157.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-voyagesandsaveurs-samsungfr/playlist.m3u8
-#EXTINF:-1, C173-Voyages+
+#EXTINF:-1, C167-Voyages+
 https://streams2.sofast.tv/ptnr-limex/title-VOYAGES-FRE_LIMEX/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c30aa0d0-fb77-4f9b-8acf-b156ab5b969b/manifest.m3u8
