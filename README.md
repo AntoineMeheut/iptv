@@ -1,2 +1,2 @@
 # iptv
-My list of French TNT TV channels
+My list of French free TV channels
