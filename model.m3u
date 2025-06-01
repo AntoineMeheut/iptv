@@ -119,65 +119,59 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1spm.m3u8
 #EXTINF:-1,-------------- Info
 //
-#EXTINF:-1, C062-Euronews
+#EXTINF:-1, C059-Euronews
 https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiOTgyOTZjMmUtYWQ4MS00M2YyLTk4MjktYTc4ODhiYjk4YzE1IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjoxfQ==/26032/euronews-fr.m3u8
-#EXTINF:-1, C063-France 24
+#EXTINF:-1, C060-France 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1, C064-LCI
+#EXTINF:-1, C061-LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
-#EXTINF:-1, C065-TV5Monde Info
+#EXTINF:-1, C062-TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1, C066-TV5MONDE EUROPE
+#EXTINF:-1, C063-TV5Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
-#EXTINF:-1, C067-TV5MONDE PACIFIQUE
+#EXTINF:-1, C064-TV5Monde Pacifique
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-#EXTINF:-1, C068-L'intelligent
-https://video1.getstreamhosting.com:1936/8074/8074/playlist.m3u8
-#EXTINF:-1, C069-Espace
-https://edge11.vedge.infomaniak.com/livecast/espacetv/manifest.m3u8
 #EXTINF:-1,-------------- Musique
 //
-#EXTINF:-1, C070-TVM3
+#EXTINF:-1, C065-MTV
+http://213.246.39.14:8070/MTV/index.m3u8
+#EXTINF:-1, C066-MTV Hits Europe
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1, C065-TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
-#EXTINF:-1, C071-Clubbing TV
+#EXTINF:-1, C066-Clubbing TV
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
-#EXTINF:-1, C072-CR Concept Radio
+#EXTINF:-1, C067-CR Concept Radio
 https://srv.webtvmanager.fr:3635/stream/play.m3u8
-#EXTINF:-1, C073-Emotion
+#EXTINF:-1, C068-Emotion
 https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8
-#EXTINF:-1, C074-Génération TV
+#EXTINF:-1, C069-Génération TV
 https://generation-tv.vedge.infomaniak.com/livecast/generation-tv/manifest.m3u8
-#EXTINF:-1, C075-La boîte à Musique
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10068
-#EXTINF:-1, C076-Qwest Jazz
+#EXTINF:-1, C070-Qwest Jazz
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
-#EXTINF:-1, C065-Trace Brasil
+#EXTINF:-1, C071-Trace Brasil
 https://trace-brazuca-lg-fr.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-brazuca-lg-fr/CDN/master.m3u8
-#EXTINF:-1, C066-Trace Latina
+#EXTINF:-1, C072-Trace Latina
 https://d3b13j525hja2q.cloudfront.net/23073/Latina/encrypted/1/prog_index.m3u8
-#EXTINF:-1, C067-Trace Urban
+#EXTINF:-1, C073-Trace Urban
 https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
-#EXTINF:-1, C068-Vevo '90s & '00s
-https://d2q982f39qtdzh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-np9jnkbfjxrog/Vevo90and2000_FR.m3u8
-#EXTINF:-1, C069-Vevo Hip-Hop RnB
-https://d3mzlmrngyf08j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-55k4m9whplndi/playlist.m3u8
-#EXTINF:-1, C070-Vevo Pop
+#EXTINF:-1, C074-Vevo Pop
 https://d3vxz540ozij3t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lv1qzgyv0ee39/playlist.m3u8
-#EXTINF:-1, C071-Classica
+#EXTINF:-1, C075-Classica
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
-#EXTINF:-1, C072-Djazz
+#EXTINF:-1, C076-Djazz
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3037
-#EXTINF:-1, C073-Movie Music
+#EXTINF:-1, C077-Movie Music
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3034
-#EXTINF:-1, C074-Qello Concerts 1
+#EXTINF:-1, C078-Qello Concerts 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3031
-#EXTINF:-1, C075-Qello Concerts 2
+#EXTINF:-1, C079-Qello Concerts 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3039
-#EXTINF:-1, C076-DBM
+#EXTINF:-1, C080-DBM
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
-#EXTINF:-1, C077-A2i Music
+#EXTINF:-1, C081-A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-#EXTINF:-1, C078-Télémusik
+#EXTINF:-1, C082-Télémusik
 https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8
 #EXTINF:-1,-------------- Archives
 //
