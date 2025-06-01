@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1,-------------- TNT
-//
 #EXTINF:-1, C001-TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1, C002-France 2
@@ -47,8 +45,6 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1, C025-Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1,-------------- Généraliste
-//
 #EXTINF:-1, C026-Canal+
 https://tvradiozap.eu/tools/dm-m3u8.php/x5gv6be.m3u8
 #EXTINF:-1, C027-RTL TVI
@@ -65,8 +61,6 @@ https://5caf24a595d94.streamlock.net:1937/qqmngmnhev/qqmngmnhev/playlist.m3u8
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1, C033-Leman Bleu
 https://naxoo.vedge.infomaniak.com/livecast/naxoo/manifest.m3u8
-#EXTINF:-1,-------------- Régional
-//
 #EXTINF:-1, C034-20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1, C035-BFM Littoral
@@ -117,8 +111,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1wf.m3u8
 #EXTINF:-1, C058-LA 1ÈRE SAINT-PIERRE MIQUELON
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1spm.m3u8
-#EXTINF:-1,-------------- Info
-//
 #EXTINF:-1, C059-Euronews
 https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiOTgyOTZjMmUtYWQ4MS00M2YyLTk4MjktYTc4ODhiYjk4YzE1IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjoxfQ==/26032/euronews-fr.m3u8
 #EXTINF:-1, C060-France 24
@@ -131,8 +123,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:-1, C064-TV5Monde Pacifique
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-#EXTINF:-1,-------------- Musique
-//
 #EXTINF:-1, C065-MTV
 http://213.246.39.14:8070/MTV/index.m3u8
 #EXTINF:-1, C066-MTV Hits Europe
@@ -173,20 +163,14 @@ https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1, C082-Télémusik
 https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8
-#EXTINF:-1,-------------- Archives
-//
 #EXTINF:-1, C083-INA 70
 https://fast-rakuten.okast.tv/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_ir_video1_1080p30.m3u8?bpkio_serviceid=fa2e8c4385712f9af3e719ec904b3543
-#EXTINF:-1,-------------- Art de vivre
-//
 #EXTINF:-1, C085-Rustica
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10047
 #EXTINF:-1, C086-Système D
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10036
 #EXTINF:-1, C087-Handicap TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTINF:-1,-------------- Cinéma
-//
 #EXTINF:-1, C088-100% Adrénaline
 https://d1brvotibwi5cb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f1710daci2xex/live/fast-channel-100adrenaline-cfcb8564/fast-channel-100adrenaline-cfcb8564.m3u8
 #EXTINF:-1, C089-Action
@@ -223,8 +207,6 @@ https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/
 https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hls_data_rakutenAA-universcine-rakuten/CDN/master.m3u8
 #EXTINF:-1, C105-Wildside TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,-------------- Culture
-//
 #EXTINF:-1, C107-France TV Documentaires
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
 #EXTINF:-1, C108-100% Docs
@@ -265,8 +247,6 @@ https://d2py8vfwz3u72y.cloudfront.net/index.m3u8
 https://stream.castr.com/631f9bb9ecbe28ce6910385a/live_79b37a4032dd11ed85c9d9bece7b557e/index.m3u8
 #EXTINF:-1, C126-BBC Earth
 https://amg00793-amg00793c22-samsung-fr-4776.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthfrance-samsungfr/playlist.m3u8
-#EXTINF:-1,-------------- Divertissement
-//
 #EXTINF:-1, C127-MDL
 https://5f5ef28097114.streamlock.net/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1, C128-Pop Corn
@@ -311,8 +291,6 @@ https://onefmmd.vedge.infomaniak.com/livecast/onefmmd/manifest.m3u8
 https://lfmmd.vedge.infomaniak.com/livecast/lfmmd/manifest.m3u8
 #EXTINF:-1, C148-Carac4
 https://edge12.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
-#EXTINF:-1,-------------- Jeunesse
-//
 #EXTINF:-1, C149-ADN
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 #EXTINF:-1, C150-Box Office Teens
@@ -325,8 +303,6 @@ https://jmp2.uk/sam-FRBD5100002NL.m3u8
 https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1, C154-Yu-Gi-Oh!
 https://amg01796-amg01796c16-rakuten-fr-7493.playouts.now.amagi.tv/1080p/index.m3u8
-#EXTINF:-1,-------------- Sport
-//
 #EXTINF:-1, C155-Bordo TV Sport
 https://srv.webtvmanager.fr:3225/stream/play.m3u8
 #EXTINF:-1, C156-Equidia
@@ -339,8 +315,6 @@ https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1, C160-Tennis Channel
 https://amg01444-amg01444c7-samsung-fr-6370.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelfrance-samsungfr/playlist.m3u8
-#EXTINF:-1,-------------- Voyage
-//
 #EXTINF:-1, C161-Ailleurs Destination Luxe
 https://dn8mc7o4f0o74.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2c0yg2t7bpaj/aildl.m3u8
 #EXTINF:-1, C162-Echappées belles
