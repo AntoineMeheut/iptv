@@ -35,134 +35,198 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1,TVG-ID="C020-TF1 Séries Films" tvg-name="TFX" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/C020-TF1 Séries Films.png" group-title="TNT",C020-TF1 Séries Films
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
-#EXTINF:-1, C021-L'Équipe
+#EXTINF:-1,TVG-ID="C021-L'Équipe" tvg-name="TFX" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/C021-L'Équipe.png" group-title="TNT",C021-L'Équipe
 https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="TFX" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="TNT",
 #EXTINF:-1, C022-6ter
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/29c7a579af3348b48230f76cd75699a5/dash_short_cenc10_6ter_hd_index.mpd
+#EXTINF:-1,TVG-ID="" tvg-name="TFX" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="TNT",
 #EXTINF:-1, C023-RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="TFX" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="TNT",
 #EXTINF:-1, C024-RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="TFX" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="TNT",
 #EXTINF:-1, C025-Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="TFX" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="TNT",
 #EXTINF:-1, C026-Canal+
 https://tvradiozap.eu/tools/dm-m3u8.php/x5gv6be.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="TFX" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="TNT",
 #EXTINF:-1, C027-RTL TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C028-Vision 4
 https://cdn-globecast.akamaized.net/live/eds/vision4/hls_video/index.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C029-Antenne A
 https://helga.iptv2022.com/Antenne_A_TV/index.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C030-CBC TV
 https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C031-Bel TV
 https://5caf24a595d94.streamlock.net:1937/qqmngmnhev/qqmngmnhev/playlist.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C032-TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C033-Leman Bleu
 https://naxoo.vedge.infomaniak.com/livecast/naxoo/manifest.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C034-20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C035-BFM Littoral
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C036-BFM Normandie
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C037-France 3 Bretagne
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbre.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C038-France 3 Normandie
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbnr.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C039-France 3 Nouvelle Aquitaine
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/faqt.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C040-France 3 Paris Île-de-France
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fidf.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C041-TV7 Bordeaux
 https://live-tv7.digiteka.com/1913908445/tracks-v3a1/mono.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C042-TVR Rennes
 https://cdn.live.easybroadcast.io/abr_corp/54_tvr_vtucuxt/corp/54_tvr_vtucuxt_1080p/chunks.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C043-Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C044-BX1 Bruxelles
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C045-Télémag Québec
 https://web-cdn.sogetel.net:8443/CLTMAG/CLTMAG.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C046-TNTV Tahiti TV
 https://tntv-samsung-fr.amagi.tv/hls/amagi_hls_data_samsungfr-tntv-samsungfr/CDN/playlist.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C047-M-Identité Télé Caraïbes
 https://vdo2.pro-fhi.net:3769/stream/play.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C048-Bordo TV
 https://srv.webtvmanager.fr:3463/stream/play.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C049-ETV GUADELOUPE
 https://edge15.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C050-LA 1ÈRE MARTINIQUE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1mar.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C051-LA 1ÈRE GUADELOUPE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1gua.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C052-LA 1ÈRE GUYANE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1guy.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C053-LA 1ÈRE MAYOTTE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1may.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C054-LA 1ÈRE RÉUNION
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1reu.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C055-LA 1ÈRE N.CALÉDONIE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1nc.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C056-LA 1ÈRE POLYNÉSIE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1pol.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C057-LA 1ÈRE WALLIS FUTUNA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1wf.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Regional",
 #EXTINF:-1, C058-LA 1ÈRE SAINT-PIERRE MIQUELON
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1spm.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Information",
 #EXTINF:-1, C059-Euronews
 https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiOTgyOTZjMmUtYWQ4MS00M2YyLTk4MjktYTc4ODhiYjk4YzE1IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjoxfQ==/26032/euronews-fr.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Information",
 #EXTINF:-1, C060-France 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Information",
 #EXTINF:-1, C061-LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Information",
 #EXTINF:-1, C062-TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Information",
 #EXTINF:-1, C063-TV5Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Information",
 #EXTINF:-1, C064-TV5Monde Pacifique
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C065-MTV
 http://213.246.39.14:8070/MTV/index.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C066-MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C065-TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C066-Clubbing TV
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C067-CR Concept Radio
 https://srv.webtvmanager.fr:3635/stream/play.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C068-Emotion
 https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C069-Génération TV
 https://generation-tv.vedge.infomaniak.com/livecast/generation-tv/manifest.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C070-Qwest Jazz
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C071-Trace Brasil
 https://trace-brazuca-lg-fr.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-brazuca-lg-fr/CDN/master.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C072-Trace Latina
 https://d3b13j525hja2q.cloudfront.net/23073/Latina/encrypted/1/prog_index.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C073-Trace Urban
 https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C074-Vevo Pop
 https://d3vxz540ozij3t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lv1qzgyv0ee39/playlist.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C075-Classica
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C076-Djazz
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3037
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C077-Movie Music
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3034
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C078-Qello Concerts 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3031
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C079-Qello Concerts 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3039
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C080-DBM
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C081-A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Musique",
 #EXTINF:-1, C082-Télémusik
 https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8
+#EXTINF:-1,TVG-ID="" tvg-name="" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/.png" group-title="Archive",
 #EXTINF:-1, C083-INA 70
 https://fast-rakuten.okast.tv/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_ir_video1_1080p30.m3u8?bpkio_serviceid=fa2e8c4385712f9af3e719ec904b3543
 #EXTINF:-1, C085-Rustica
