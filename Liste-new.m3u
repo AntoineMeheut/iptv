@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,TVG-ID="C001-TF1" tvg-name="TF1" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/C001-TF1.png" group-title="TNT",C001-TF1
+#EXTINF:-1 TVG-ID="C001-TF1" tvg-name="TF1" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/C001-TF1.png" group-title="TNT",C001-TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1,TVG-ID="C002-France 2" tvg-name="France 2" tvg-logo="https://github.com/AntoineMeheut/iptv/blob/main/logo/C002-France 2.png" group-title="TNT",C002-France 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
